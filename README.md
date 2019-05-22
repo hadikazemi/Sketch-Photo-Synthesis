@@ -3,16 +3,19 @@ The Pytorch Implementation of "Unsupervised Facial Geometry Learning for Sketch 
 ### Results
 
 **e-PRIP IdentiKit Dataset**
+<br/>
 ![IdentiKit](/results/identikit.png)
 
 <br/>
 
 **e-PRIP Indian Dataset**
+<br/>
 ![IdentiKit](/results/indian.png)
 
 <br/>
 
 **Feret Dataset**
+<br/>
 ![Feret](/results/feret.png)
 
 <br/>
